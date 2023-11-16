@@ -7,8 +7,8 @@
 
 # Для использования:
 # 1. Установить движок Docker на устройство
-# 2. Собрать контейнер командой docker build -t gundet  .
-# 3. Запустить командой docker run -p 8501:8501 gundet
+# 2. Собрать контейнер командой docker build -t gundet-shiki  .
+# 3. Запустить командой docker run -p 8501:8501 gundet-shiki
 
 FROM python:3.11.5
 
