@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SHIKIdet.iml" filepath="$PROJECT_DIR$/.idea/SHIKIdet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SHIKIcode/.idea/SHIKIdet.iml" filepath="$PROJECT_DIR$/../SHIKIcode/.idea/SHIKIdet.iml" />
     </modules>
   </component>
 </project>
